@@ -6,6 +6,6 @@
 </head>
 <body>
   <h1>Vulture Animation</h1>
-  <img src="vulture.gif" alt="Vulture movement animation">
+  <img src="371877animation.gif" alt="Vulture movement animation">
 </body>
 </html>
